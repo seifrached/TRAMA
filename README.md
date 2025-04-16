@@ -20,6 +20,14 @@ This alert is provided for informational purposes only and does **not** constitu
 
 **TRAMA** is a custom trend indicator for MetaTrader 4 that is inspired by the Trend Regularity Adaptive Moving Average developed by LuxAlgo on TradingView. This indicator dynamically adapts to market regularity by calculating an adaptive moving average based on a custom look-back period. In practice, if the market price is above the TRAMA, it indicates an uptrend; if below, it signals a downtrend.
 
+### (Tradingview == MetaTrader4)                                                                                              
+<img src="https://github.com/user-attachments/assets/360185cb-9c06-4b47-b7ff-e81272b74091" width="500" height="400"> 
+
+<img src="https://github.com/user-attachments/assets/deb1c587-57e5-4dd8-884f-ab8c9ba8fbab" width="500" height="400">
+
+
+
+
 ## Key Features
 
 - **LuxAlgo-Inspired Adaptive Moving Average:**  
